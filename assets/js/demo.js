@@ -16,8 +16,8 @@ Circles.create({
 
 $.notify({
 	icon: 'la la-bell',
-	title: 'Bootstrap notify',
-	message: 'Turning standard Bootstrap alerts into "notify" like notifications',
+	title: 'Solomon Kassa notify',
+	message: 'Turning standard  alerts into "notify" like notifications',
 },{
 	type: 'success',
 	placement: {
