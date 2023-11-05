@@ -141,8 +141,8 @@ $(".mapcontainer").mapael({
 						fill: "#59d05d"
 					}					
 				},
-				"US": {
-					tooltip: {content: "<b>United State</b>"},
+				"ET": {
+					tooltip: {content: "<b>Ethiopia</b>"},
 					attrs: {
 						fill: "#59d05d"
 					}
