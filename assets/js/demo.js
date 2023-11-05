@@ -119,7 +119,6 @@ $(".mapcontainer").mapael({
 		}
 	},
 	areas: {
-				
 				"ET": {
 					tooltip: {content: "<b>Ethiopia</b>"},
 					attrs: {
@@ -128,8 +127,6 @@ $(".mapcontainer").mapael({
 					, attrsHover: {
 						fill: "#59d05d"
 					}					
-				},
-									
 				}
 			},
 		});
