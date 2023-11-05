@@ -119,28 +119,7 @@ $(".mapcontainer").mapael({
 		}
 	},
 	areas: {
-				// "department-56": {
-				// 	text: {content: "Morbihan", attrs: {"font-size": 10}},
-				// 	tooltip: {content: "<b>Morbihan</b> <br /> Bretagne"}
-				// },
-				"ID": {
-					tooltip: {content: "<b>Indonesia</b> <br /> Tempat Lahir Beta"},
-					attrs: {
-						fill: "#59d05d"
-					}
-					, attrsHover: {
-						fill: "#59d05d"
-					}
-				},
-				"RU": {
-					tooltip: {content: "<b>Russia</b>"},
-					attrs: {
-						fill: "#59d05d"
-					}
-					, attrsHover: {
-						fill: "#59d05d"
-					}					
-				},
+				
 				"ET": {
 					tooltip: {content: "<b>Ethiopia</b>"},
 					attrs: {
@@ -150,14 +129,7 @@ $(".mapcontainer").mapael({
 						fill: "#59d05d"
 					}					
 				},
-				"AU": {
-					tooltip: {content: "<b>Australia</b>"},
-					attrs: {
-						fill: "#59d05d"
-					}
-					, attrsHover: {
-						fill: "#59d05d"
-					}					
+									
 				}
 			},
 		});
